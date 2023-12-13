@@ -17,9 +17,8 @@ Dependencies
 - argparse 1.4.0
 
 
-Alignment on the ICEWS05-15 dataset and YAGO-WIKI50K dataset for knowledge graph entity alignment
+Running
 --------------------------------------------------------------------
-The dataset and LaBSE embedding files can be downloaded from [Google Drive](https://drive.google.com/file/d/1cP6CxVWsqa9ngOM4St1PzFv5NBF_jxBG/view?usp=sharing)
 ```
 python run_FTFS.py
 ```
