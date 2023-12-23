@@ -21,7 +21,7 @@ Entity Alignment on F_DICEWS dataset
 python run_FTFS.py --ds 0 
 ```
 
-Alignment on F_YAGO-WIKI50K dataset
+Entity Alignment on F_YAGO-WIKI50K dataset
 --------------------------------
 ```
 python run_FTFS.py ---ds 1
