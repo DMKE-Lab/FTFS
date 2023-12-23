@@ -2,8 +2,7 @@
 
 This is a Python implementation of 
 
-> Unsupervised Fuzzy Temporal Knowledge Graph Entity Alignment via Joint Fuzzy Semantics Learning and global Structure Learning
-
+> Unsupervised Fuzzy Temporal Knowledge Graph Entity Alignment via Joint Fuzzy Semantics Learning and Global Structure Learning 
 
 Dependencies
 --------------------------------
@@ -16,9 +15,14 @@ Dependencies
 - networkx 2.8.4
 - argparse 1.4.0
 
-
-Running
---------------------------------------------------------------------
+Entity Alignment on F_DICEWS dataset
+--------------------------------
 ```
-python run_FTFS.py
+python run_FTFS.py --ds 0 
+```
+
+Alignment on F_YAGO-WIKI50K dataset
+--------------------------------
+```
+python run_FTFS.py ---ds 1
 ```
